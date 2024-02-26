@@ -24,3 +24,12 @@ As the mess builds, the productivity of the team continues to decrease, asymptot
 
 The only way to make the deadline is to keep the code as clean as possible at all times.
 
+Eventually the team rebels and they inform their manager about not to continue this project.
+
+
+
+
+##
+##
+##
+##
